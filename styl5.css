@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.baner1{
+    background-color: #483D8B;
+    width: 30%;
+    height: 150px;
+    float: left;
+}
+.baner2{
+    background-color: #483D8B;
+    height: 150px;
+    color: white;
+    width: 70%;
+    float: right;
+}
+.dane{
+    background-color: #AFEEEE;
+    width: 150px;
+    height: 100px;
+    margin: 3px;
+    border: 1px solid;
+    float: left;
+}
+.stopka{
+    background-color: #483D8B;
+    color: white;
+    padding: 10px;
+    clear: both;
+}
+h5{
+    text-align: center;
+}
